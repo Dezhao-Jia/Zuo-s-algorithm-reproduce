@@ -1,4 +1,3 @@
-# CPlus-
 Config files for my GitHub profile.  
 This porject is coding by learning Chengyun Zuo's algorithm class.  
 Because the sample code are writen by java which I haven't learn it.  
